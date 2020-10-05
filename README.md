@@ -4,7 +4,7 @@ It's a Mud Game!
 There is No English...
 Maybe, I will add English.
 
-If you dont know codeing, you can download exe file and active it.
+If you dont know coding, you can download exe file and launch it.
 
 cpp file is working on Dev C++
 
